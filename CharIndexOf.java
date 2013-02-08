@@ -39,7 +39,7 @@ public class CharIndexOf {
      */
     public static void main(String[] args) {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-        //          0123456789012
+        //          012345678901234
         String a = "a33331212333132";
         String b = "33313";
         a.indexOf(0
